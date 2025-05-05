@@ -1,4 +1,4 @@
-🍒 Cherry Rush: Ninja Sprint
+<h1><b>🍒 Cherry Rush: Ninja Sprint</b><h1></h1>
 Take control of a fast and fearless pink ninja in this exciting 2D browser game!
 Collect cherries, dodge traps, and keep running in this endless runner designed to showcase fast gameplay and minimalistic design.
 
